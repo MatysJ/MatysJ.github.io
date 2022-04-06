@@ -1,0 +1,87 @@
+body{width:100%;}
+
+body 
+{
+        background-color: #c8ad7f;
+}
+
+h1
+{
+	text-align: center;
+	background-color: #c8ad7f;
+}
+
+h3
+{
+	font-size:x-large;
+	text-align:center;
+	background-color: #c8ad7f;
+}
+
+h4
+{
+	text-align: center;
+}
+
+h5
+{
+	font-size: x-large;
+	text-align: center;
+	background-color: #c8ad7f;
+}
+
+h6
+{
+	font-size: large;
+	position: absolute;
+	bottom: 0;
+	left:0;
+}
+
+#hypatie
+{
+	position:fixed;
+    right:0;
+    bottom:0;
+}
+
+#croix
+{
+	position: absolute;
+	bottom: 15;
+	left:40;
+}
+
+#enseignement
+{
+	position: absolute;
+	bottom: 0;
+	right:0;
+}
+
+#oeuvres
+{
+	text-align: center;
+	font-size: x-large;
+}
+
+#astrolabe
+{
+	position: absolute;
+	bottom: 15;
+	left:40;
+}
+
+#Planisphere
+{
+	position: absolute;
+	bottom: 1;
+	right: 0;
+}
+
+#avatar
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
